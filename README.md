@@ -1,0 +1,2 @@
+# XNmTx
+extended named text
